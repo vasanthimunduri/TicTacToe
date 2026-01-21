@@ -1,4 +1,4 @@
-#Tic Tac Toe Game – Working Description
+**Tic Tac Toe Game – Working Description**
 
 The Tic Tac Toe game is a command-line-based application developed using Java. It allows two players to play the game by taking turns on a 3×3 grid. One player uses the symbol X, and the other uses O. The game continues until one player wins or the game ends in a draw.
 
